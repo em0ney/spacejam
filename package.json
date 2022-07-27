@@ -9,7 +9,7 @@
     "psext": "0.0.4",
     "rc": "0.5.1",
     "semver": "4.1.0",
-    "underscore": "1.7.0"
+    "underscore": "1.13.4"
   },
   "devDependencies": {
     "coffee-script": "1.8.0",
