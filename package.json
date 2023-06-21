@@ -8,7 +8,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "psext": "0.0.4",
     "rc": "0.5.1",
-    "semver": "4.1.0",
+    "semver": "7.5.2",
     "underscore": "1.7.0"
   },
   "devDependencies": {
